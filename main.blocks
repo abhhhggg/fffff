@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="~%U5J0v|*EM$FfBn^H(t">A</variable></variables><block type="pxt-on-start" id="1=;]/!i)r[t_sjiJEVd]" x="534" y="-360"><statement name="HANDLER"><block type="basic_show_icon" id="pX-.h]!g%7^?C%@THA$N"><field name="i">IconNames.Square</field><next><block type="basic_show_icon" id="j:w:9lY-+esue$RX)_E!"><field name="i">IconNames.SmallSquare</field><next><block type="device_show_leds" id="55!x+{8Nw5+%PpAAtc/]"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_show_number" id="!C~+VNd`(boa8zP}/zYX" disabled="true" x="291" y="0"><value name="number"><shadow type="math_number" id="{ERiJ1H6FtbeuNalQ_Te" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="device_button_event" id="H-J@uG5};_/6gBvGdwjA" x="427" y="181"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="variables_set" id="B]5Rw*!xK[wflZE57%bp"><field name="VAR" id="~%U5J0v|*EM$FfBn^H(t">A</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="eyv`KnQMbHpm,B~wi$AA"><value name="min"><shadow type="math_number" id="Ag)(E2IpG2c:zXk4dKqU"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="PMA(Tvq|,M(]y]_`$o-a"><field name="NUM">10</field></shadow></value></block></value></block></statement></block></xml>
